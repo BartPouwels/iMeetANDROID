@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "971140994543",
+    "firebase_url": "https://imeetadminandroid.firebaseio.com",
+    "project_id": "imeetadminandroid",
+    "storage_bucket": "imeetadminandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971140994543:android:578eb14936c1b998",
+        "android_client_info": {
+          "package_name": "com.imeet.bartp.imeetadminandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971140994543-56n8t7tfm1vkmk0s2hueo59ceqav5b4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqnOTE93SKEiYEAfdstfCzXhyU0EA-pQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971140994543:android:65410b20a926837a",
+        "android_client_info": {
+          "package_name": "com.imeet.bartp.imeetadminandroid1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971140994543-56n8t7tfm1vkmk0s2hueo59ceqav5b4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqnOTE93SKEiYEAfdstfCzXhyU0EA-pQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971140994543:android:00aa92ee8576fb18",
+        "android_client_info": {
+          "package_name": "com.imeet.bartp.tabbedactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971140994543-56n8t7tfm1vkmk0s2hueo59ceqav5b4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqnOTE93SKEiYEAfdstfCzXhyU0EA-pQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
